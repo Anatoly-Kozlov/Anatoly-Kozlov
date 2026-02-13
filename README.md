@@ -23,8 +23,8 @@
 
 | № | Репозиторий | Описание | Основные технологии | Ссылка |
 |---|-------------|----------|----------------------|--------|
-| 1 | Power-Query | Коллекция проектов по Power Query: сложные трансформации, рекурсия, создание функций, обработка иерархических таблиц  | Power Query (M)| [![GitHub](https://img.shields.io/badge/GitHub-Посмотреть-181717?style=flat&logo=github)](https://github.com/Anatoly-Kozlov/M_pet_projects) |
-| 2 | Power-BI | Дашборды и модели данных | Power BI, DAX, Power Query | [![GitHub](https://img.shields.io/badge/GitHub-Посмотреть-181717?style=flat&logo=github)](https://github.com/Anatoly-Kozlov/Power-BI) |
+| 1 | Power-BI | Дашборды и модели данных | Power BI, DAX, Power Query | [![GitHub](https://img.shields.io/badge/GitHub-Посмотреть-181717?style=flat&logo=github)](https://github.com/Anatoly-Kozlov/Power-BI) |
+| 2 | Power-Query | Коллекция проектов по Power Query: сложные трансформации, рекурсия, создание функций, обработка иерархических таблиц  | Power Query (M)| [![GitHub](https://img.shields.io/badge/GitHub-Посмотреть-181717?style=flat&logo=github)](https://github.com/Anatoly-Kozlov/M_pet_projects) |
 
 Описание проектов и скриншоты дашбордов находятся внутри репозиториев.
 
